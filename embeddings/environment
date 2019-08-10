@@ -1,0 +1,6 @@
+numpy 3.7
+torch 1.12
+torchvision
+torchtext
+pip install spacy
+python -m spacy download en
